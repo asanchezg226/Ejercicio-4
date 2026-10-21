@@ -1,0 +1,51 @@
+# Perfil de personaje: Spiderman
+
+![Spider-man](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyZTWYsNVp2ArwhRZdJp9XLDqxRkbwD3WtKOiBUQTog&s=10)
+
+## 1. Introducción 
+Spider-Man es uno de los superhéroes más queridos de **Marvel**. 
+Creado por Stan Lee y Steve Ditko en 1962, su alter ego es *Peter Parker*, un estudiante de instituto que acaba cargando con una responsabilidad enorme. Lo que lo hace especial no son solo sus poderes, sino que es un chaval normal con problemas normales: llegar a tiempo, pagar el alquiler, quedar bien con los amigos... y salvar la ciudad entre medias.
+
+## 2. Datos básicos 
+
+### 2.1 Poderes 
+- Fuerza y agilidad sobrehumanas 
+- Sentido arácnido (detecta el peligro antes de que llegue) 
+- Capacidad de trepar por las paredes - Reflejos muy rápidos 
+
+### 2.2 Cronología resumida 
+1. Una araña radiactiva le pica y obtiene sus poderes 
+2. Su tío Ben muere y aprende que *"un gran poder conlleva una gran responsabilidad"* 
+3. Empieza a patrullar Nueva York como Spider-Man 4. Se une a los Vengadores
+
+## 3. Formatos de texto 
+
+- **Negrita** para lo importante: Peter Parker es un genio de la ciencia. 
+- *Cursiva* para los matices: siempre intenta hacer bromas mientras pelea. 
+- ***Negrita cursiva*** para lo imprescindible: **nunca** se rinde.
+
+## 4. Comparativa de todas las películas hasta la fecha
+
+| Película | Actor | Año | Ejemplo de alguna de sus películas |
+|----------|-------|-----| ---- |
+| Spider-Man | Tobey Maguire  | 2002 - 2004 | ([Spider-man 2](https://en.wikipedia.org/wiki/Spider-Man_2))
+| The Amazing Spider-Man | Andrew Garfield  | 2012 - 2014 | ([The Amazing Spider-man 2](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2))
+| Spider-Man: Homecoming | Tom Holland  | 2017 - Actualidad| ([Spider-man: No Way Home](https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home)
+
+## 5. Un poco de código
+
+Si Spider-Man tuviera un script para presentarse, sería algo así:
+
+```powershell
+$nombre = "Peter Parker" 
+Write-Host "Hola, soy $nombre y soy Spider-Man" 
+```
+
+## 6.  Opinión personal
+
+Para mí, Spider-Man funciona y me gusta porque es cercano. No es un millonario ni un dios: es un estudiante que se equivoca, se levanta y sigue adelante, intentando siempre hacer lo correcto y lo mejor por los demás.
+![spiderman](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQICjZIHIdzbBX9NIeY4xp30n3ICtxVJouAiN_vijNF9Q&s=10)
+
+Esto es otro párrafo, separado del anterior por una línea en blanco.<br> 
+Esta línea va justo debajo, con un salto de línea normal.<br> 
+Y esta es la tercera línea del mismo párrafo.
